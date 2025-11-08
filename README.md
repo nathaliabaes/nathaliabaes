@@ -33,7 +33,7 @@ Me chamo Nathalia Baes, tenho 25 anos e moro em Florianópolis/SC. Atualmente es
 ### 🤖 Linguagens e Tecnologias/Conhecimento básico
 
 <img 
-    align="left" 
+    align="center" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -41,7 +41,7 @@ Me chamo Nathalia Baes, tenho 25 anos e moro em Florianópolis/SC. Atualmente es
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="CSS" 
     title="CSS"
     width="30px" 
@@ -49,7 +49,7 @@ Me chamo Nathalia Baes, tenho 25 anos e moro em Florianópolis/SC. Atualmente es
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
-    align="left" 
+    align="center"
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
@@ -65,7 +65,7 @@ Me chamo Nathalia Baes, tenho 25 anos e moro em Florianópolis/SC. Atualmente es
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 <img 
-    align="left" 
+    align="center"
     alt="Python" 
     title="Python"
     width="30px" 
@@ -73,3 +73,13 @@ Me chamo Nathalia Baes, tenho 25 anos e moro em Florianópolis/SC. Atualmente es
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+---
+
+### 📊 Estatísticas
+
+<img 
+      align="center" 
+      alt="GitHub Stats" 
+      height="150" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliabaes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
