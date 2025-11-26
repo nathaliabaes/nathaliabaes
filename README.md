@@ -5,13 +5,13 @@
 Me chamo Nathalia Baes, tenho 25 anos e moro em Florianópolis/SC. Atualmente estou cursando o 6º semestre de Análise e Desenvolvimento de Sistemas na Uninter e estou em busca da minha primeira oportunidade de estágio na área da Tecnologia.  
 
 <p align="center">
-  <a href="mailto:seuemail@gmail.com?subject=Contato%20pelo%20GitHub&body=Olá,%20tudo%20bem?%0D%0A%0D%0AEscreva%20sua%20mensagem%20aqui:%0D%0A">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=seuemail@gmail.com&su=Contato%20pelo%20GitHub&body=Olá,%20tudo%20bem?%0D%0A%0D%0AEscreva%20sua%20mensagem%20aqui:" target="_blank">
     <img 
       alt="Enviar e-mail" 
       title="Enviar e-mail" 
       src="https://custom-icon-badges.demolab.com/badge/E-mail-E61B23.svg?logo=mail"
-    />
-  </a>
+  />
+</a>
   <a href="https://github.com/nathaliabaes?tab=repositories" target="_blank">
     <img 
       alt="Meus repositórios" 
