@@ -5,28 +5,37 @@
 Me chamo Nathalia Baes, tenho 25 anos e moro em Florianópolis/SC. Atualmente estou cursando o 6º semestre de Análise e Desenvolvimento de Sistemas na Uninter e estou em busca da minha primeira oportunidade de estágio na área da Tecnologia.  
 
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=seuemail@gmail.com&su=Contato%20pelo%20GitHub&body=Olá,%20tudo%20bem?%0D%0A%0D%0AEscreva%20sua%20mensagem%20aqui:" target="_blank">
+  <a 
+    href="https://mail.google.com/mail/?view=cm&fs=1&to=seuemail@gmail.com&su=Contato%20pelo%20GitHub&body=Olá,%20tudo%20bem?%0D%0A%0D%0AEscreva%20sua%20mensagem%20aqui:" 
+    target="_blank" 
+    rel="noopener noreferrer"
+  >
     <img 
       alt="Enviar e-mail" 
       title="Enviar e-mail" 
       src="https://custom-icon-badges.demolab.com/badge/E-mail-E61B23.svg?logo=mail"
-  />
-</a>
-  <a href="https://github.com/nathaliabaes?tab=repositories" target="_blank">
+    />
+  </a>
+  <a 
+    href="https://github.com/nathaliabaes?tab=repositories" 
+    target="_blank"
+  >
     <img 
       alt="Meus repositórios" 
       title="Repositórios no GitHub" 
       src="https://custom-icon-badges.demolab.com/badge/Repositórios-0366D6.svg?logo=repo"
     />
   </a>
-  <a href="https://wa.me/5551995031295?text=Olá!%20Vim%20pelo%20seu%20GitHub" target="_blank">
+  <a 
+    href="https://wa.me/5551995031295?text=Olá!%20Vim%20pelo%20seu%20GitHub" 
+    target="_blank"
+  >
     <img 
       alt="WhatsApp" 
       title="Chamar no WhatsApp"
       src="https://custom-icon-badges.demolab.com/badge/WhatsApp-25D366.svg?logo=whatsapp"
     />
   </a>
-
 </p>
 
 ---
