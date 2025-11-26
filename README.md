@@ -35,13 +35,19 @@ Me chamo Nathalia Baes, tenho 25 anos e moro em Florianópolis/SC. Atualmente es
 <p align="center">
   <a href="https://nathaliabaes.github.io/form/" target="_blank">
     <img alt="Formulário Animado" title="Formulário Animado"
-         src="https://img.shields.io/badge/Formulário%20Animado-6A5ACD?style=for-the-badge" 
+         src="https://img.shields.io/badge/Formulário%20Animado-20B2AA?style=for-the-badge"
          width="150"/>
   </a>
   <br><br>
   <a href="https://nathaliabaes.github.io/animacao-toggle/" target="_blank">
     <img alt="Animação Toggle" title="Animação Toggle"
          src="https://img.shields.io/badge/Animação%20Toggle-20B2AA?style=for-the-badge" 
+         width="150"/>
+  </a>
+  <br><br>
+  <a href="https://nathaliabaes.github.io/weatherview/" target="_blank">
+    <img alt="Weather View" title="Weather View"
+         src="https://img.shields.io/badge/Weather%20View-20B2AA?style=for-the-badge" 
          width="150"/>
   </a>
   <br><br>
