@@ -69,7 +69,11 @@ Me chamo Nathalia Baes, tenho 25 anos e moro em Florianópolis/SC. Atualmente es
   <a href="https://nathaliabaes.github.io/weatherview/" target="_blank">
     <img src="https://img.shields.io/badge/Weather%20View-20B2AA?style=for-the-badge" alt="Weather View">
   </a>
-  <img src="https://img.shields.io/badge/Em%20Breve-9370DB?style=for-the-badge" alt="Em breve">
+  <a href="https://nathaliabaes.github.io/weatherview/](https://nathaliabaes.github.io/password-web/" target="_blank">
+    <img src="https://img.shields.io/badge/Password%20Generator-20B2AA?style=for-the-badge" alt="Password Generator">
+  </a>
+  
+  <img src="https://img.shields.io/badge/Em%20Breve-9370DB?style=for-the-badge" alt="Em breve 👩🏻‍💻">
 </p>
 
 ---
@@ -77,5 +81,10 @@ Me chamo Nathalia Baes, tenho 25 anos e moro em Florianópolis/SC. Atualmente es
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img alt="GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliabaes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+  <img 
+    alt="GitHub Stats" 
+    height="150" 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nathaliabaes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+  />
 </p>
+
