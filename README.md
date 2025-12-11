@@ -20,23 +20,34 @@ Me chamo Nathalia Baes, tenho 25 anos e moro em Florianópolis/SC. Atualmente es
 
 ### 📚 Projetos de Estudo
 
-<p align="center">
-  <a href="https://nathaliabaes.github.io/password-web/">
-    <img height="120" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nathaliabaes&repo=password-web&theme=tokyonight&hide=css,html,javascript"/>
-  </a>
-  <a href="https://nathaliabaes.github.io/weatherview/">
-    <img height="120" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nathaliabaes&repo=weatherview&theme=tokyonight&hide=css,html,javascript"/>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" style="padding: 12px;">
+      <a href="https://nathaliabaes.github.io/password-web/">
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nathaliabaes&repo=password-web&theme=tokyonight&hide=css,html,javascript" width="240" height="140"/>
+      </a>
+    </td>
+    <td align="center" style="padding: 12px;">
+      <a href="https://nathaliabaes.github.io/weatherview/">
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nathaliabaes&repo=weatherview&theme=tokyonight&hide=css,html,javascript" width="240" height="140"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 12px;">
+      <a href="https://nathaliabaes.github.io/form/">
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nathaliabaes&repo=form&theme=tokyonight&hide=css,html,javascript" width="240" height="140"/>
+      </a>
+    </td>
+    <td align="center" style="padding: 12px;">
+      <a href="https://nathaliabaes.github.io/animacao-toggle/">
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nathaliabaes&repo=animacao-toggle&theme=tokyonight&hide=css,html,javascript" width="240" height="140"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://nathaliabaes.github.io/form/">
-    <img height="120" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nathaliabaes&repo=form&theme=tokyonight&hide=css,html,javascript"/>
-  </a>
-  <a href="https://nathaliabaes.github.io/animacao-toggle/">
-    <img height="120" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nathaliabaes&repo=animacao-toggle&theme=tokyonight&hide=css,html,javascript"/>
-  </a>
-</p> 
+
 
 
 --- 
