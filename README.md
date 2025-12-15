@@ -12,9 +12,10 @@ Atualmente curso o 6º semestre de Análise e Desenvolvimento de Sistemas e esto
   <a href="https://wa.me/5551995031295">
     <img src="https://img.shields.io/badge/WhatsApp-1c1c1c?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-   <a href="mailto:nathaliabaes@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-1c1c1c?style=for-the-badge&logo=minutemailer&logoColor=white"/>
-  </a>
+</p>
+
+<p align="center">
+  📧 <code>nathaliabaes@gmail.com</code>
 </p>
 
 ---
