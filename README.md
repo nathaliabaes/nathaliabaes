@@ -51,14 +51,6 @@ Atualmente curso o 6º semestre de Análise e Desenvolvimento de Sistemas e esto
 
 --- 
 
-### 📚 Tecnologias que estou me dedicando a estudar no momento: 
-
-<p align="center">
-  <img height="30" src="https://skillicons.dev/icons?i=react,ts"/>
-</p>
-
----
-
 ### 🤖 Noções básicas de:
 
 <p align="center">
