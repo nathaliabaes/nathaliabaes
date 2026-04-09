@@ -3,7 +3,7 @@
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
 Me chamo Nathalia, tenho 25 anos e moro em Florianópolis/SC.<br>
-Atualmente curso o 6º semestre de Análise e Desenvolvimento de Sistemas e estou em busca da minha primeira oportunidade de estágio na área de Tecnologia.
+Estagiária, atualmente curso o 5º período de Análise e Desenvolvimento de Sistemas.
  
 <p align="center">
   <a href="https://github.com/nathaliabaes?tab=repositories">
