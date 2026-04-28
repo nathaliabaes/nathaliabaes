@@ -1,9 +1,7 @@
-# 🙋‍♀️ Nathalia Baes
+# Nathalia Baes 👩🏼‍💻
 
-**`Estudante de Análise e Desenvolvimento de Sistemas`**
-
-Me chamo Nathalia, tenho 25 anos e moro em Florianópolis/SC.<br>
-Estagiária, atualmente curso o 5º período de Análise e Desenvolvimento de Sistemas.
+Estagiária, atualmente cursando o 5º período de Análise e Desenvolvimento de Sistemas.<br>
+Aqui irei publicar meus projetos desenvolvidos no estágio e projetos de estudo para acompanhar minha evolução na área de Tecnologia.
  
 <p align="center">
   <a href="https://github.com/nathaliabaes?tab=repositories">
@@ -20,7 +18,19 @@ Estagiária, atualmente curso o 5º período de Análise e Desenvolvimento de Si
 
 ---
 
-### 📚 Projetos de Estudo
+### 📚 Projetos desenvolvidos
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding: 12px;">
+      <a href="https://github.com/nathaliabaes/cnis-extractor/">
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nathaliabaes&repo=cnis-extractor&theme=tokyonight&hide=css,html,javascript" width="240" height="140"/>
+      </a>
+    </td></table>
+   
+---
+
+### 📚 Projetos de estudo
 
 <table align="center">
   <tr>
@@ -37,11 +47,6 @@ Estagiária, atualmente curso o 5º período de Análise e Desenvolvimento de Si
   </tr>
   <tr>
     <td align="center" style="padding: 12px;">
-      <a href="https://nathaliabaes.github.io/form/">
-        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nathaliabaes&repo=form&theme=tokyonight&hide=css,html,javascript" width="240" height="140"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 12px;">
       <a href="https://nathaliabaes.github.io/animacao-toggle/">
         <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nathaliabaes&repo=animacao-toggle&theme=tokyonight&hide=css,html,javascript" width="240" height="140"/>
       </a>
@@ -50,14 +55,6 @@ Estagiária, atualmente curso o 5º período de Análise e Desenvolvimento de Si
 </table>
 
 --- 
-
-### 🤖 Noções básicas de:
-
-<p align="center">
-  <img height="30" src="https://skillicons.dev/icons?i=html,css,js,python,mysql"/>
-</p>
-
----
 
 ### 📊 Estatísticas do GitHub
 
