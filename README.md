@@ -1,6 +1,5 @@
 # Nathalia Baes 👩🏼‍💻
 
-Estagiária, atualmente cursando o 5º período de Análise e Desenvolvimento de Sistemas.<br>
 Aqui irei publicar meus projetos desenvolvidos no estágio e projetos de estudo para acompanhar minha evolução na área de Tecnologia.
  
 <p align="center">
